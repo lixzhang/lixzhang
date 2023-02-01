@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lixun Zhang
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently working using Reinforcement Learning to improve user experience
+- 🌱 I’m currently working using Reinforcement Learning to improve users' streaming experience
 
 
 <!---
